@@ -50,17 +50,6 @@ An AI-powered tool that automatically creates professional company brochures by 
    GOOGLE_API_KEY=your-google-api-key-here
    ```
 
-## Required Python Packages
-
-Create a `requirements.txt` file with:
-```
-openai>=1.0.0
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-python-dotenv>=1.0.0
-ipython>=8.0.0
-```
-
 ## Usage
 
 ### Basic Usage
