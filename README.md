@@ -20,8 +20,7 @@ An AI-powered tool that automatically creates professional company brochures by 
 ## Prerequisites
 
 - Python 3.7 or higher
-- OpenAI API key
-- Google API key (for Gemini)
+- OpenAI API key or  Google API key (for Gemini)
 - Virtual environment (recommended)
 
 ## Installation
@@ -138,10 +137,6 @@ The tool includes basic error handling for:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Troubleshooting
 
 ### Common Issues
@@ -178,14 +173,6 @@ Democratizing AI for everyone...
 Join our team of world-class researchers and engineers...
 ```
 
-## Future Enhancements
 
-- Support for additional output formats (PDF, HTML)
-- Integration with more AI models
-- Batch processing capabilities
-- Enhanced error handling and logging
-- Support for multi-language websites
-
----
 
 **Note**: This tool is designed for educational and legitimate business purposes. Please respect website terms of service and robots.txt files when scraping content.
