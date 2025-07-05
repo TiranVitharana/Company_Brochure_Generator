@@ -28,7 +28,7 @@ An AI-powered tool that automatically creates professional company brochures by 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/company-brochure-generator.git
+   git clone https://github.com/TiranVitharana/Company_Brochure_Generator.git
    cd company-brochure-generator
    ```
 
